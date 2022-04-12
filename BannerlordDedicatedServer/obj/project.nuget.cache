@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "en+Idq6SjOaooU6lvDS40eM6VBkGWTM9pk7UzsHuHwuwLcdora1tM4vpUL+bnbPseAiXtHiV9HdcNhwVpg2mkg==",
+  "success": true,
+  "projectFilePath": "D:\\SteamLibrary\\steamapps\\common\\Mount & Blade II Bannerlord\\Modules\\MentalrobClient\\src\\BannerlordDedicatedServer\\BannerlordDedicatedServer\\BannerlordDedicatedServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mentalrob\\.nuget\\packages\\protobuf-net\\3.0.101\\protobuf-net.3.0.101.nupkg.sha512",
+    "C:\\Users\\mentalrob\\.nuget\\packages\\protobuf-net.core\\3.0.101\\protobuf-net.core.3.0.101.nupkg.sha512"
+  ],
+  "logs": []
+}

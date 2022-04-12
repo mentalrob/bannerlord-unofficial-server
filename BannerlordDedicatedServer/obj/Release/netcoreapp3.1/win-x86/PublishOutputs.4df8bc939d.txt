@@ -1,0 +1,2 @@
+D:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\MentalrobClient\src\BannerlordDedicatedServer\BannerlordDedicatedServer\bin\Release\netcoreapp3.1\publish\BannerlordDedicatedServer.pdb
+D:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\MentalrobClient\src\BannerlordDedicatedServer\BannerlordDedicatedServer\bin\Release\netcoreapp3.1\publish\BannerlordDedicatedServer.exe

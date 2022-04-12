@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "fQQAyX7IeDYrSoiQScLfhDxZZck2yPR8GgZpCm9QGYi+iQiK5VugFK+E1YQAUKf6R8ZVRnfEiWANcHnX/fLZZQ==",
+  "success": true,
+  "projectFilePath": "D:\\SteamLibrary\\steamapps\\common\\Mount & Blade II Bannerlord\\Modules\\MentalrobClient\\src\\BannerlordDedicatedServer\\BannerlordDedicatedServer\\BannerlordDedicatedServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mentalrob\\.nuget\\packages\\protobuf-net\\3.0.101\\protobuf-net.3.0.101.nupkg.sha512",
+    "C:\\Users\\mentalrob\\.nuget\\packages\\protobuf-net.core\\3.0.101\\protobuf-net.core.3.0.101.nupkg.sha512",
+    "C:\\Users\\mentalrob\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.9\\microsoft.netcore.app.runtime.win-x86.3.1.9.nupkg.sha512",
+    "C:\\Users\\mentalrob\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.9\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.9.nupkg.sha512",
+    "C:\\Users\\mentalrob\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.9\\microsoft.aspnetcore.app.runtime.win-x86.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
